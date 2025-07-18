@@ -1,4 +1,10 @@
 import React from "react";
+import Service1 from '../assets/service1.png';
+import Service2 from '../assets/service2.png';
+import Service3 from '../assets/service3.png';
+import Service4 from '../assets/service4.png';
+import Service5 from '../assets/service5.png';
+import Service6 from '../assets/service6.png';
 
 
 const services = [
@@ -6,37 +12,37 @@ const services = [
     title: "AI Solutions",
     description:
       "Harness the power of artificial intelligence and machine learning to automate processes, gain insights, and drive innovation.",
-    icon: "../assets/service1.png",
+    icon: Service1,
   },
   {
     title: "App Development",
     description:
       "Custom web and mobile application development tailored to your unique business requirements and user experience.",
-    icon: "../assets/service2.png",
+    icon: Service2,
   },
   {
     title: "Cloud Solutions",
     description:
       "Scalable and secure cloud infrastructure design, migration, and management for optimal performance and flexibility.",
-    icon: "../assets/service3.png",
+    icon: Service3,
   },
   {
     title: "Cybersecurity",
     description:
       "Comprehensive security strategies and implementation to protect your data and infrastructure from evolving threats.",
-    icon: "../assets/service4.png",
+    icon: Service4,
   },
   {
     title: "Data Analytics",
     description:
       "Transform raw data into actionable insights with our advanced data analytics and business intelligence services.",
-    icon: "../assets/service5.png",
+    icon: Service5,
   },
   {
     title: "UI/UX Design",
     description:
       "Crafting intuitive, engaging, and visually stunning user interfaces for exceptional digital experiences.",
-    icon: "../assets/service6.png",
+    icon: Service6,
   },
 ];
 

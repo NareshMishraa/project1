@@ -1,4 +1,8 @@
 import React from "react";
+import Avatar1 from '../assets/Avatar1.png';
+import Avatar2 from '../assets/Avatar2.png';
+import Avatar3 from '../assets/Avatar3.png';
+import Avatar4 from '../assets/Avatar4.png';
 
 const testimonials = [
   {
@@ -6,28 +10,28 @@ const testimonials = [
       "BitorioTech transformed our outdated systems into a streamlined, AI-powered platform. Their team's expertise and dedication were exceptional.",
     name: "Jane Doe",
     title: "CEO, Innovate Corp.",
-    avatar: "../assets/Avatar1.png",
+    avatar: Avatar1,
   },
   {
     quote:
       "The mobile application developed by BitorioTech exceeded all our expectations. It's intuitive, robust, and has significantly boosted our user engagement.",
     name: "John Smith",
     title: "Product Manager, Global Ventures",
-    avatar: "../assets/Avatar2.png",
+    avatar: Avatar2,
   },
   {
     quote:
       "Their cloud migration service was seamless. We experienced zero downtime, and our infrastructure is now more secure and efficient than ever before.",
     name: "Emily White",
     title: "CTO, Tech Solutions Inc.",
-    avatar: "../assets/Avatar3.png",
+    avatar: Avatar3,
   },
   {
     quote:
       "BitorioTech's cybersecurity audit identified critical vulnerabilities, and their swift implementation of solutions saved us from potential threats. Highly recommend!",
     name: "Michael Brown",
     title: "Security Lead, SecureNet Corp.",
-    avatar: "../assets/Avatar4.png",
+    avatar: Avatar4,
   },
 ];
 

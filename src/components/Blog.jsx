@@ -1,5 +1,8 @@
 import React from "react";
 import { Calendar, Clock } from "lucide-react";
+import Blog1 from '../assets/Blog1.png';
+import Blog2 from '../assets/Blog2.png';
+import Blog3 from '../assets/Blog3.png';
 
 const blogPosts = [
   {
@@ -8,7 +11,7 @@ const blogPosts = [
       "Explore how artificial intelligence is evolving from simple automation to complex decision-making and creative problem-solving across industries.",
     date: "October 26, 2023",
     readTime: "8 min read",
-    image: "../assets/Blog1.png",
+    image: Blog1,
   },
   {
     title: "Securing Your Cloud: Best Practices for Data Protection",
@@ -16,7 +19,7 @@ const blogPosts = [
       "Discover essential strategies and best practices for fortifying your cloud infrastructure against modern cyber threats and ensuring data integrity.",
     date: "October 19, 2023",
     readTime: "6 min read",
-    image: "../assets/Blog2.png",
+    image: Blog2,
   },
   {
     title: "DevOps: Bridging the Gap Between Development and Operations",
@@ -24,7 +27,7 @@ const blogPosts = [
       "Understand the principles of DevOps and how it can revolutionize your software development lifecycle for faster, more reliable deployments.",
     date: "October 12, 2023",
     readTime: "7 min read",
-    image: "../assets/Blog3.png",
+    image: Blog3,
   },
 ];
 

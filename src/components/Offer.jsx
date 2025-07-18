@@ -2,12 +2,16 @@
 import React, { useState } from "react";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
+import Offer1 from '../assets/Offer.png';
+import Offer2 from '../assets/Offer2.png';
+import Offer3 from '../assets/Offer3.png';
+import Offer4 from '../assets/Offer4.png';
 
 const images = [
-  "../assets/Offer.png",
-  "../assets/Offer2.png",
-  "../assets/Offer3.png",
-  "../assets/Offer4.png",
+  Offer1,
+  Offer2,
+  Offer3,
+  Offer4,
 ];
 
 
