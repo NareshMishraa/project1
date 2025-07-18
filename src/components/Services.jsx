@@ -6,37 +6,37 @@ const services = [
     title: "AI Solutions",
     description:
       "Harness the power of artificial intelligence and machine learning to automate processes, gain insights, and drive innovation.",
-    icon: "/service1.png",
+    icon: "../Images/service1.png",
   },
   {
     title: "App Development",
     description:
       "Custom web and mobile application development tailored to your unique business requirements and user experience.",
-    icon: "/service2.png",
+    icon: "../Images/service2.png",
   },
   {
     title: "Cloud Solutions",
     description:
       "Scalable and secure cloud infrastructure design, migration, and management for optimal performance and flexibility.",
-    icon: "/service3.png",
+    icon: "../Images/service3.png",
   },
   {
     title: "Cybersecurity",
     description:
       "Comprehensive security strategies and implementation to protect your data and infrastructure from evolving threats.",
-    icon: "/service4.png",
+    icon: "../Images/service4.png",
   },
   {
     title: "Data Analytics",
     description:
       "Transform raw data into actionable insights with our advanced data analytics and business intelligence services.",
-    icon: "/service5.png",
+    icon: "../Images/service5.png",
   },
   {
     title: "UI/UX Design",
     description:
       "Crafting intuitive, engaging, and visually stunning user interfaces for exceptional digital experiences.",
-    icon: "/service6.png",
+    icon: "../Images/service6.png",
   },
 ];
 

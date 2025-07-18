@@ -7,32 +7,32 @@ const projects = [
   {
     title: "Enterprise AI Integration",
     category: "Artificial Intelligence",
-    image: "/Project1.png",
+    image: "../Images/Project1.png",
   },
   {
     title: "Secure Cloud Migration",
     category: "Cloud Computing",
-    image: "/Project2.png",
+    image: "../Images/Project2.png",
   },
   {
     title: "Threat Detection Platform",
     category: "Cybersecurity",
-    image: "/Project3.png",
+    image: "../Images/Project3.png",
   },
   {
     title: "Real‑time Sales Dashboard",
     category: "Data Analytics",
-    image: "/Project4.png",
+    image: "../Images/Project4.png",
   },
   {
     title: "IoT Device Management",
     category: "Managed IT",
-    image: "/Project5.png",
+    image: "../Images/Project5.png",
   },
   {
     title: "E‑commerce UX Redesign",
     category: "Software Development",
-    image: "/Project6.png",
+    image: "../Images/Project6.png",
   },
 ];
 

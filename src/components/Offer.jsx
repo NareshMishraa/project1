@@ -4,10 +4,10 @@ import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 const images = [
-  "/Offer.png",
-  "/Offer2.png",
-  "/Offer3.png",
-  "/Offer4.png",
+  "../Images/Offer.png",
+  "../Images/Offer2.png",
+  "../Images/Offer3.png",
+  "../Images/Offer4.png",
 ];
 
 

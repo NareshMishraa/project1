@@ -1,5 +1,5 @@
 import React from "react";
-import feature from "/Container.png";
+import feature from "../Images/Container.png";
 import { CircleCheckBig, ArrowRight } from "lucide-react";
 
 const Features = () => {

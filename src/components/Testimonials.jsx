@@ -6,28 +6,28 @@ const testimonials = [
       "BitorioTech transformed our outdated systems into a streamlined, AI-powered platform. Their team's expertise and dedication were exceptional.",
     name: "Jane Doe",
     title: "CEO, Innovate Corp.",
-    avatar: "/Avatar1.png",
+    avatar: "../Images/Avatar1.png",
   },
   {
     quote:
       "The mobile application developed by BitorioTech exceeded all our expectations. It's intuitive, robust, and has significantly boosted our user engagement.",
     name: "John Smith",
     title: "Product Manager, Global Ventures",
-    avatar: "/Avatar2.png",
+    avatar: "../Images/Avatar2.png",
   },
   {
     quote:
       "Their cloud migration service was seamless. We experienced zero downtime, and our infrastructure is now more secure and efficient than ever before.",
     name: "Emily White",
     title: "CTO, Tech Solutions Inc.",
-    avatar: "/Avatar3.png",
+    avatar: "../Images/Avatar3.png",
   },
   {
     quote:
       "BitorioTech's cybersecurity audit identified critical vulnerabilities, and their swift implementation of solutions saved us from potential threats. Highly recommend!",
     name: "Michael Brown",
     title: "Security Lead, SecureNet Corp.",
-    avatar: "/Avatar4.png",
+    avatar: "../Images/Avatar4.png",
   },
 ];
 

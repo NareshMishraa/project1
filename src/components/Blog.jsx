@@ -8,7 +8,7 @@ const blogPosts = [
       "Explore how artificial intelligence is evolving from simple automation to complex decision-making and creative problem-solving across industries.",
     date: "October 26, 2023",
     readTime: "8 min read",
-    image: "/Blog1.png",
+    image: "../Images/Blog1.png",
   },
   {
     title: "Securing Your Cloud: Best Practices for Data Protection",
@@ -16,7 +16,7 @@ const blogPosts = [
       "Discover essential strategies and best practices for fortifying your cloud infrastructure against modern cyber threats and ensuring data integrity.",
     date: "October 19, 2023",
     readTime: "6 min read",
-    image: "/Blog2.png",
+    image: "../Images/Blog2.png",
   },
   {
     title: "DevOps: Bridging the Gap Between Development and Operations",
@@ -24,7 +24,7 @@ const blogPosts = [
       "Understand the principles of DevOps and how it can revolutionize your software development lifecycle for faster, more reliable deployments.",
     date: "October 12, 2023",
     readTime: "7 min read",
-    image: "/Blog3.png",
+    image: "../Images/Blog3.png",
   },
 ];
 
