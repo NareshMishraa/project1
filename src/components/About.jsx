@@ -1,5 +1,5 @@
 import React from 'react';
-import about from '../Images/about.png';
+import about from '../assets/about.png';
 import { ArrowRight, SquarePlay } from 'lucide-react';
 
 const About = () => {
